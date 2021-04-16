@@ -12,7 +12,7 @@ You can now work. After you finish:
 
 `git add -A`
 
-`git commit -m "Your commit message"
+`git commit -m "Your commit message"`
 
 `git push origin merdan`
 
