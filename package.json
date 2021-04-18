@@ -1,0 +1,14 @@
+{
+  "name": "pdf2text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdf2text.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "yargs": "^16.2.0"
+  }
+}
