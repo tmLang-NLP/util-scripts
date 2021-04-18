@@ -31,4 +31,6 @@ pdf(dataBuffer).then(function (data) {
   }
 
   fs.writeFileSync(pathOfTXT, text);
+
+  process.exit();
 });
